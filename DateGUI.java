@@ -16,4 +16,4 @@ public class DateGUI extends JFrame{
         this.getContentPane();
         this.setLayout(new GridLayout(0,2));
 	} //establishes GUI
-}
+} //class DateGUI

@@ -55,4 +55,4 @@ public class Date212{
 	public String toRaw(){
 		return (year + "" + month + "" + day);
 	} //method that returns the date in the form yyyymmdd
-}
+} //class Date212
